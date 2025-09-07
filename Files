@@ -5,18 +5,18 @@ Playlist ini 100% gratis tanpa bayar, isi playlist diambil dari berbagai macam s
 #EXTM3U
 
 #EXTM3U url-
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://i.imgur.com/un8daQS.png" group-title="Indonesia (Lokal) ",RCTI Plus
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1200px-RCTI_logo_2015.svg.png" group-title="Indonesia (Lokal) ",RCTI Plus
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 https://perfecttv.net:443/Perfecttv/Perfecttv/1576
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h7Qm4Rh/asean-futsal-2024.jpg" group-title="Indonesia (Lokal) ",MNCTV Plus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/2560px-MNCTV_logo_2015.svg.png" group-title="Indonesia (Lokal) ",MNCTV Plus
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia (Lokal) ",Magna Channel
+#EXTINF:-1 tvg-logo="https://campaignme.com/wp-content/uploads/2019/04/MAGNA-LOGO-FINAL.png" group-title="Indonesia (Lokal) ",Magna Channel
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
@@ -38,34 +38,34 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
-#EXTINF: -1 tvg-name="TRANS TV" tvg-logo="https://cecetv.id/logo/transtv.png?v=2.0.0.13" group-title="Indonesia (Lokal) ",TransTV SD
+#EXTINF: -1 tvg-name="TRANS TV" tvg-logo="https://www.rar.co.id/wp-content/uploads/2022/10/2.png" group-title="Indonesia (Lokal) ",TransTV SD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2108851844_b344100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/k3S01Fh/transtv.png" group-title="Indonesia (Lokal) ",TransTV HD
+#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV" tvg-logo="https://www.rar.co.id/wp-content/uploads/2022/10/2.png" group-title="Indonesia (Lokal) ",TransTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://i.ibb.co/V37y7jf/trans7.png" group-title="Indonesia (Lokal) ", Trans7
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="Indonesia (Lokal) ", Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7 =&gt;1" tvg-logo="https://i-meatballs.bunkr.ru/20231005_130031-WxgBvodL.jpg?download=true" group-title="Indonesia (Lokal) ",Trans7 HD
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7 =&gt;1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="Indonesia (Lokal) ",Trans7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144556368_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Daai TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.visionplus.id/images/repository/979/49979-SNAPSHOT-l.png" group-title="Indonesia (Lokal) ",Daai TV
+#EXTINF:-1 tvg-id="Daai TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://assets.berca.co.id/wp-content/uploads/2021/09/09165021/DAAI_TV_Jakarta.png" group-title="Indonesia (Lokal) ",Daai TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
 https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="Indonesia (Lokal) ",Kompas TV
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/1200px-KOMPAS_TV_%282017%29.svg.png" group-title="Indonesia (Lokal) ",Kompas TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="Indonesia (Lokal) " tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-l.png",Metro TV
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="Indonesia (Lokal) " tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png",Metro TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
@@ -77,17 +77,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
 https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 
-#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI" tvg-logo="https://i.ibb.co/4F68vbH/tvri.png" group-title="Indonesia (Lokal) ",Tvri Nasional
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="Indonesia (Lokal) ",Tvri Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-ID="cnbc" tvg-logo="https://cecetv.id/logo/cnbcindonesia.png" group-title="Indonesia (Lokal) ",CNBC Indonesia
+#EXTINF:-1 tvg-ID="cnbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo_of_CNBC_Indonesia.svg/2422px-Logo_of_CNBC_Indonesia.svg.png" group-title="Indonesia (Lokal) ",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 # KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/2UfuWSs.png" group-title="Indonesia (Lokal?)",Berita Satu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png" group-title="Indonesia (Lokal)",Berita Satu
 #EXTVLCOPT:http-user-agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
 #EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="Indonesia (Lokal) ",CNN Indonesia
@@ -281,13 +281,13 @@ https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.
 #KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
 https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="Indonesia (Lokal) ",GTV
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/GTV_%282017%29.svg" group-title="Indonesia (Lokal) ",GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="Indonesia (Lokal) ",Indonesiana TV 
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="Indonesia (Lokal) ",Indonesiana TV 
 https://tvstreamcast.com/indonesiana.m3u8
 
 
@@ -465,7 +465,7 @@ http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/46794.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 group-title="Indonesia (Lokal)" tvg-logo="",ANTV
+#EXTINF:-1 group-title="Indonesia (Lokal)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Antv_logo.svg",ANTV
 http://103.172.71.153:9981/stream/channelid/816721919?profile=pass
 
 #EXTINF:-1 group-title="Movies" tvg-logo="",TvN
