@@ -1,9 +1,3 @@
-Playlist ini 100% gratis tanpa bayar, isi playlist diambil dari berbagai macam source. Kalo ada channel yg mati atau bermasalah bisa kontak gwe di telegram @rezaprtmavlp
-
-
-
-#EXTM3U
-
 #EXTM3U url-
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1200px-RCTI_logo_2015.svg.png" group-title="Indonesia (Lokal) ",RCTI Plus
 #EXTVLCOPT:http-user-agent=android-R+
