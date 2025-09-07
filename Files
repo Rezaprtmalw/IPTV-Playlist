@@ -483,7 +483,7 @@ http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/46794.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 catchup-days="8" catchup-source="https://op-catchupswift-1.dens.tv/tvod/mnf.php?code=h02&stream=S1&starttime=${start}&endtime=${end}"
- tvg-id="Aniplus.id" tvg-name="Aniplus.id" tvg-logo="https://images.indihometv.com/assets/88_ANIPLUS_2025_03_17_14_53_54.png" group-title="Kids",ANIPLUS Asia
+#EXTINF: tvg-id="Aniplus.id"
+tvg-name="Aniplus.id" tvg-logo="https://images.indihometv.com/assets/88_ANIPLUS_2025_03_17_14_53_54.png" group-title="Kids",ANIPLUS Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
