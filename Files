@@ -477,5 +477,5 @@ http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/46794.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-EXTINF:-1 group-title="Indonesia (Lokal) " tvg-logo="",ANTV
+#EXTINF:-1 group-title="Indonesia (Lokal) " tvg-logo="",ANTV
 http://103.172.71.153:9981/stream/channelid/816721919?profile=pass
