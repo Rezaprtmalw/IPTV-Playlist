@@ -281,7 +281,7 @@ https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.
 #KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
 https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/GTV_%282017%29.svg" group-title="Indonesia (Lokal) ",GTV
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/GlobalTV_%28Indonesia%29.svg/1280px-GlobalTV_%28Indonesia%29.svg.png" group-title="Indonesia (Lokal) ",GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
@@ -465,8 +465,8 @@ http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/46794.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 group-title="Indonesia (Lokal)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Antv_logo.svg",ANTV
+#EXTINF:-1 group-title="Indonesia (Lokal)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Antv_2003.svg/1024px-Antv_2003.svg.png",ANTV
 http://103.172.71.153:9981/stream/channelid/816721919?profile=pass
 
-#EXTINF:-1 group-title="Movies" tvg-logo="",TvN
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png",TvN
 https://everylive.space/live/tvn/livestream.m3u8
