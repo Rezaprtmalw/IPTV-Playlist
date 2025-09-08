@@ -1,0 +1,245 @@
+title="OPANG",CNN Indonesia
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
+
+#EXTINF:0, tvg-id="CNN Indonesia HD" tvg-name="CNN Indonesia HD" tvg-url"http://www.transvision.co.id" tvg-logo="https://2.bp.blogspot.com/-oosV39Fczxs/XDAlx0XLyQI/AAAAAAAARQU/Q2YyyMAjRhkUfbB59t5bPbZ9CrFv1fJTQCLcBGAs/s320/CNN%2BIndonesia.png" group-title="OPANG",CNN Indonesia
+
+#EXTINF:0, tvg-id="TVRI" tvg-name="TVRI" tvg-url="http://www.mncvision.id.E" tvg-logo="https://i.imgur.com/b5gcteI.png" group-title="OPANG",TVRI
+
+ 
+#EXTINF:0, tvg-id="TVRI World" tvg-name="TVRI World" tvg-url="" tvg-logo="https://i.imgur.com/zfElMa0.png" group-title="OPANG",TVRI World
+
+ 
+#EXTINF:0, tvg-id="Rajawali TV" tvg-name="Rajawali TV" tvg-url="http://www.useetv.com" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9e/RtvIndonesia.png/300px-RtvIndonesia.png" group-title="OPANG",Rajawali TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:0, tvg-id="The Indonesia Channel" tvg-name="The Indonesia Channel" tvg-url="http://www.theindonesiachannel.com" tvg-logo="https://www.theindonesiachannel.com/uploads/news/thb_LogoTICClean_1440X812.png" group-title="OPANG",THE INDONESIA CHANNEL
+
+#EXTINF:0, tvg-id="The Indonesia Channel" tvg-name="The Indonesia Channel" tvg-url="http://www.theindonesiachannel.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/INews_on_screen_logo.png" group-title="OPANG",INEWS ()
+
+
+#EXTINF:0, tvg-id="The Indonesia Channel" tvg-name="The Indonesia Channel" tvg-url="http://www.theindonesiachannel.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/INews_on_screen_logo.png" group-title="OPANG",INEWS
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTINF:0, tvg-id="The Indonesia Channel" tvg-name="The Indonesia Channel" tvg-url="http://www.theindonesiachannel.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/INews_on_screen_logo.png" group-title="OPANG",INEWS
+https://allcutv.rctiplus.id/inews2023.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MNC_News.png" group-title="OPANG",MNC News
+
+
+#EXTINF:-1 tvg-id="__" group-title="OPANG" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-m.png",Bandung TV
+
+
+#EXTINF:0, tvg-id="Magna Channel" tvg-name="Magna Channel" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="OPANG",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+ 
+#EXTINF:0, tvg-id="JAKARTA GLOBE NEWS CHANNEL" tvg-name="JAKARTA GLOBE NEWS CHANNEL" tvg-url="http://www.firstmedia.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="OPANG",Jakarta Globe News Channel
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
+https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
+ 
+#EXTINF:-1 tvg-id="__" group-title="OPANG" tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-m.png",Da Ai TV Indonesia
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+ 
+#EXTINF:0, tvg-id="DigdayaTV.id" tvg-name="" tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png" group-title="OPANG",SERU
+
+ 
+#EXTINF:0, tvg-id="UGTV" tvg-name="" tvg-url="" tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/01/logo-ug.png" group-title="OPANG",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
+#EXTINF:0, tvg-id="MENTARI" tvg-name="" tvg-url="" tvg-logo="https://1.bp.blogspot.com/-ku7t1E-Cz_Y/X_em0sEhwuI/AAAAAAAAqX8/v1tEKHJ9K4EfhqVLUVuU_XRyRlGcjTBkQCLcBGAsYHQ/s0/mentari-tv-channel-logo.png" group-title="OPANG",Mentari Tv
+
+ 
+#EXTINF:0, tvg-id="tve" tvg-name="" tvg-url="" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/f8/41/f3/f841f3f2-cce5-434c-f002-0462c4b8cf5f/source/256x256bb.jpg" group-title="OPANG",Edukasi Tv
+
+
+#EXTINF:-1 tvg-id="" group-title="OPANG" tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png",Vision Prime
+
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/VTV_Indonesia_red.png/400px-VTV_Indonesia_red.png" group-title="OPANG",VTV
+
+#EXTINF:0 tvg-id="" tvg-name="OKTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" group-title="OPANG",OK TV
+
+
+
+#EXTINF:0 tvg-id="" tvg-name="OKZONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" group-title="OPANG",OK ZOne
+9
+
+
+#EXTINF:0 tvg-id="" tvg-name="MNC Ent" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/MNCChannelsNEW.png" group-title="OPANG",Celebrity
+
+
+
+#EXTINF:0 tvg-id="" tvg-name="MNC Ent" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/MNCChannelsNEW.png" group-title="OPANG",MNC Ent
+
+
+
+#EXTINF:0 tvg-id="" tvg-name="MNC Ent" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/MNCChannelsNEW.png" group-title="OPANG",MNC Info
+
+
+
+#EXTINF:0 tvg-id="" tvg-name="MNC" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/ef/Music_TV_%282014%29.png/revision/latest?cb=20210330144812" group-title="OPANG",Music TV
+
+#EXTINF:0, tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/eb/b8/bb/ebb8bb27-fc10-3245-a509-6819062b69d6/source/256x256bb.jpg" group-title="OPANG",FLIK
+
+
+#EXTINF:0 tvg-id="" tvg-name="imc" tvg-logo="https://i.postimg.cc/5t9KJNCj/imc.png" group-title="OPANG",IMC
+
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Etvthai.png" group-title="OPANG",ETV
+
+#EXTINF:0, tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f6e38380f9ce99054b15_axn.png" group-title="OPANG", AXN (M)
+
+
+#EXTINF:0, tvg-id="Galaxy.tv" tvg-name="Galaxy" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="OPANG",Galaxy
+
+ 
+#EXTINF:0, tvg-id="Galaxy.tv" tvg-name="Galaxy" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="OPANG",Galaxy Premium
+
+ 
+#EXTINF:0, tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="OPANG",HBO (TSL)
+
+
+#EXTINF:0, tvg-logo="https://ia904502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png" group-title="OPANG",HBO2
+
+
+#EXTINF:0, tvg-logo="https://spng.pngfind.com/pngs/s/71-717965_hbo-logo-johns-hopkins-logo-white-hd-png.png" group-title="OPANG",HBO+
+
+
+#EXTINF:0, tvg-logo="https://btvoficial.com/wp-content/uploads/2021/08/hbo-pop-560x420-1-300x225.png" group-title="OPANG",HBO POP
+
+
+#EXTINF:0, tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="OPANG",HBO Family
+
+
+
+#EXTINF:0, tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="OPANG",HBO Hits
+
+
+#EXTINF:0, tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="OPANG",HBO Hits
+
+
+#EXTINF:0, tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="OPANG",HBO Signature
+
+
+#EXTINF:0, tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="OPANG",HBO Signatur
+
+
+#EXTINF:0, tvg-logo="https://i.imgur.com/Wz3WemYg.jpg" group-title="OPANG",HBO XTREME
+
+
+#EXTINF:0, tvg-id="Hits.sg" tvg-name="HITS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png" group-title="OPANG",HITS
+
+ 
+#EXTINF:0, tvg-id="HitsMovies.sg" tvg-name="HITS Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png" group-title="OPANG",HITS Movies
+
+
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/My_Cinema_Logo_kedua.png/1200px-My_Cinema_Logo_kedua.png" group-title="OPANG",My Cinema
+
+
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-P95DfEhU8hQ/Xg2yxxf61LI/AAAAAAAApIA/4-FZeL8yA5YIe5EDO19mePYnoCuAmg9mwCLcBGAsYHQ/s1600/my-cinema-asia-channel-tv-logo.png" group-title="OPANG",My Cinema Asia
+
+
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="OPANG",Paramount
+
+
+#EXTINF:0, tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-xtra.png" group-title="OPANG",Cinemachi Xtra
+
+
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="OPANG",Cinemachi Max
+
+ 
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/Cinemachi-logo.png" group-title="OPANG",Cinemachi HD
+
+
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png" group-title="OPANG",Cinemachi Action
+
+
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="OPANG",tvN
+
+
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg" group-title="OPANG",tvN Movies
+
+
+#EXTINF:0, tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1200px-KBS_World_%282009%29.svg.png" group-title="OPANG",KBS World 
+
+
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914" group-title="OPANG",One
+
+ 
+#EXTINF:0, tvg-id="ext" group-title="OPANG" tvg-logo="https://i.imgur.com/rGTHbAM.png", GEM
+
+ 
+#EXTINF:0, tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="OPANG",KPlus
+http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
+ 
+#EXTINF:0, tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="OPANG",KPlus
+
+ 
+#EXTINF:0, tvg-id="Thrill" tvg-name="Thrill" tvg-url="http://www.mncvision.id.E" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="OPANG",Thrill
+
+
+#EXTINF:0, tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2-650x209.png" group-title="OPANG",Cinema World
+
+ 
+#EXTINF:0, tvg-id="CCM" tvg-name="CCM" tvg-url="http://www.mncvision.id.E" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="OPANG",Celestial Classic Movies
+
+
+
+#EXTINF:0, tvg-id="B-KIDS" tvg-name="" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="OPANG",B-KIDS
+http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
+
+#EXTINF:0, tvg-id="BabyTVAsia.uk" tvg-name="BabyTV" tvg-logo="http://dusktill.masuk.web.id/img/babytv.png" group-title="OPANG",Baby TV
+
+
+#EXTINF:0, tvg-id="" tvg-name="Kids TV" tvg-logo="http://dusktill.masuk.web.id/img/kidstv.png" group-title="OPANG",Kids Channel
+
+
+#EXTINF:0, tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png" group-title="OPANG",ANIPLUS
+http://103.167.167.5:8111/play/a033/index.m3u8
+
+#EXTINF:0, tvg-logo="https://docplayer.info/docs-images/75/72882473/images/40-0.jpg" group-title="OPANG",HOREE
+
+
+
+#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Miao-mi-logo-color.png/revision/latest/scale-to-width-down/250?cb=20180713090314" group-title="OPANG",Miao Mi
+
+
+#EXTINF:0, tvg-logo="https://p.kindpng.com/picc/s/230-2302368_dream-fiction-wiki-nickelodeon-logo-png-transparent-png.png" group-title="OPANG",Nickelodeon
+
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="OPANG",Nick Jr
+
+
+#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CBeebies_II.svg/revision/latest/scale-to-width-down/250?cb=20210613084417" group-title="OPANG",CBeebies
+
+
+#EXTINF:0, tvg-logo="https://toon-kids.com/media/images/general/logo.png" group-title="OPANG",Toon Kids
+http://210.210.155.37/x6bnqe/s/s81/01.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Toonz_Kids
+
+
+#EXTINF:0, tvg-id="AlQuran.tv" tvg-name="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/fullhd_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="OPANG",AlQuran Tv
+
+
+#EXTINF:0 tvg-id="" tvg-name="MNC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/MNCMuslim_baru.png/revision/latest/scale-to-width-down/250?cb=20171117155100" group-title="OPANG",Muslim Tv
+
+
+#EXTINF:0 tvg-id="" tvg-name="MNC" tvg-logo="https://television-live.com/uploads/posts/deyhhtrdhger.png" group-title="OPANG",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.surautv.id/wp-content/uploads/2021/05/logosurautvvalid.png" group-title="OPANG",SURAU TV
+http://119.235.249.58:1935/surautv/live/playlist.m3u8
+
+
+#EXTINF:0 tvg-id="" tvg-name="MNC" tvg-logo="https://1.bp.blogspot.com/-43xqz-W6x-U/XMzYenkW2XI/AAAAAAAAn0Y/W89DVaZ6TWE7RSL8gl3IjlRzE6WKzdJbwCLcBGAs/s1600/tawaf-tv-channel-logo.png" group-title="OPANG",Tawaf TV
+
+
+#EXTINF:0 tvg-id="" tvg-name="MNC" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a5/TVMu_logo.svg/200px-TVMu_logo.svg.png" group-title="OPANG",TV Mu
+
+
+#EXTINF:-1 tvg-id="" tvg-name="REFORMED" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png" group-title="OPANG",Reformed 21
