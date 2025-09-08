@@ -402,3 +402,10 @@ https://slive.mana2.my/AniPlus/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/custom-upload/brand-center/biznet_logo-horizontal-fullcolor.png" group-title="Kids", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/ABC_Studios_logo.svg/2560px-ABC_Studios_logo.svg.png" group-title="Entertainment dan Gaya Hidup",ABC TV
+https://c.mjh.nz/abc-nsw.m3u8
+
+EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mg_LZ8mDZCXi_kAJT5mUkmtn8OKSS67HhG66QWH5pv1lo=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment dan Gaya Hidup",Travel XP 
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
