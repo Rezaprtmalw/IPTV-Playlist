@@ -426,11 +426,5 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Movies", Thrill
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
-{
-        "name": "Star Sports 1",
-        "id": "star1in",
-        "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png",
-        "link": "https://d6.merichunidya.com:1686/hls/star1in.m3u8?md5=0HpZO1h6YWB1CVDi8B3GXg&expires=1757609852",
-        "referer": "https://stylisheleg4nt.com",
-        "origin": "https://stylisheleg4nt.com"
-    }
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="Sports", Star Sports 1
+https://d6.merichunidya.com:1686/hls/star1in.m3u8?md5=0HpZO1h6YWB1CVDi8B3GXg&expires=1757609852
