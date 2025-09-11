@@ -426,5 +426,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Movies", Thrill
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Indonesia (Lokal) ", MDTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/2560px-MDTV_logo.svg.png" group-title="Indonesia (Lokal) ", MDTV
 https://cdn10jtedge.indihometv.com/atm/DASH/net/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.rtv.co.id/images/rtv/newlogo.png" group-title="Indonesia (Lokal) ", RTV
+https://cdn10jtedge.indihometv.com/atm/DASH/rtv/manifest.mpd
