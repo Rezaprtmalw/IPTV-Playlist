@@ -430,4 +430,4 @@ https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/net/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/2560px-MDTV_logo.svg.png" group-title="Indonesia (Lokal) ", Maxstream
-https://cdn10jtedge.indihometv.com/atm/DASH/maxstream/manifest.mpd
+https://cdn10jtedge.indihometv.com/livetv/maxstream/manifest.mpd
