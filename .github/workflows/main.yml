@@ -1,0 +1,33 @@
+/
+├── .github/
+│   └── workflows/
+│       └── android-build.yml
+│
+├── android/
+│   ├── app/
+│   │   ├── build.gradle
+│   │   └── src/
+│   │       └── main/
+│   │           ├── java/
+│   │           │   └── com/example/xyztv/MainActivity.java
+│   │           ├── res/
+│   │           │   ├── layout/activity_main.xml
+│   │           │   └── values/themes.xml
+│   │           └── AndroidManifest.xml
+│   ├── build.gradle
+│   └── settings.gradle
+│
+├── components/
+│   ├── ChannelList.tsx
+│   ├── Logo.tsx
+│   └── Player.tsx
+│
+├── services/
+│   ├── iptvService.ts
+│   └── proxyService.ts
+│
+├── App.tsx
+├── index.html
+├── index.tsx
+├── metadata.json
+└── types.ts
