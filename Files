@@ -9,7 +9,7 @@ https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e8258
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://paylist.ambatukan.workers.dev/s/cubmu/1k43t9di/drm?hdnts=exp=1767173034~acl=/s/cubmu/1k43t9di/*~id=allUsers~hmac=9c725bd0d0f30c46aa738ba228813f62afc0aef6a7a698ccdc4e609e78c58b27
-#EXTINF:-1 group-title="Indonesia (Lokal) " tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016cd6ebd82f2396/20190906102710.png",MNC TV Plus
+#EXTINF:-1 group-title="Indonesia (Lokal) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/2560px-MNCTV_logo_2015.svg.png",MNC TV Plus
 https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd?sign=6a73c03ae0470ae57462ef1ef85ccb6d&time=1767151433
 
 #EXTINF:-1 tvg-logo="https://campaignme.com/wp-content/uploads/2019/04/MAGNA-LOGO-FINAL.png" group-title="Indonesia (Lokal) ",Magna Channel
