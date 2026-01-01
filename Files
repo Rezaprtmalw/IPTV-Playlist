@@ -1,7 +1,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://paylist.ambatukan.workers.dev/s/cubmu/1mk5gpuh/drm?hdnts=exp=1767287141~acl=/s/cubmu/1mk5gpuh/*~id=allUsers~hmac=008970ebef2e95e0c10b11c47ca813a81ef53b7e0bcaf201a1c5bc41a7dc75f5
-#EXTINF:-1 group-title="Indonesia (Lokal)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1200px-RCTI_logo_2015.svg.png",RCTI Plus
+#EXTINF:-1 group-title="Indonesia (Lokal) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1200px-RCTI_logo_2015.svg.png",RCTI Plus
 https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd?sign=c976f3eaa6b8725a801345627f1fa1d1&time=1767265540
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
