@@ -4,16 +4,11 @@
 #EXTINF:-1 group-title="Indonesia (Lokal)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1200px-RCTI_logo_2015.svg.png",RCTI Plus
 https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd?sign=c976f3eaa6b8725a801345627f1fa1d1&time=1767265540
 
-
-
-
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://paylist.ambatukan.workers.dev/s/cubmu/1k43t9di/drm?hdnts=exp=1767173034~acl=/s/cubmu/1k43t9di/*~id=allUsers~hmac=9c725bd0d0f30c46aa738ba228813f62afc0aef6a7a698ccdc4e609e78c58b27
 #EXTINF:-1 group-title="Indonesia (Lokal) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/2560px-MNCTV_logo_2015.svg.png",MNC TV Plus
 https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd?sign=6a73c03ae0470ae57462ef1ef85ccb6d&time=1767151433
-
-
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia (Lokal) ",Indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -21,15 +16,11 @@ https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6ebd82
 #KODIPROP:inputstream.adaptive.license_key=https://paylist.ambatukan.workers.dev/s/firstmedia/1k43t9di/play.mpd?id=218&hdnts=exp=1767173035~acl=/s/firstmedia/1k43t9di/*~id=allUsers~hmac=53d8589dab88db2a16fa076dece0892100a68e78d00b6fc7df513b9e2a53b3f2
 https://paylist.ambatukan.workers.dev/s/firstmedia/1k43t9di/play.mpd?id=218&hdnts=exp=1767173035~acl=/s/firstmedia/1k43t9di/*~id=allUsers~hmac=53d8589dab88db2a16fa076dece0892100a68e78d00b6fc7df513b9e2a53b3f2
 
-
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia (Lokal) ",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://paylist.ambatukan.workers.dev/s/firstmedia/1k43t9di/play.mpd?id=290&hdnts=exp=1767173035~acl=/s/firstmedia/1k43t9di/*~id=allUsers~hmac=53d8589dab88db2a16fa076dece0892100a68e78d00b6fc7df513b9e2a53b3f2
 https://paylist.ambatukan.workers.dev/s/firstmedia/1k43t9di/play.mpd?id=290&hdnts=exp=1767173035~acl=/s/firstmedia/1k43t9di/*~id=allUsers~hmac=53d8589dab88db2a16fa076dece0892100a68e78d00b6fc7df513b9e2a53b3f2
-
-
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="Indonesia (Lokal) ",Moji TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
