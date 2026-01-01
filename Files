@@ -244,13 +244,11 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 https://tvstreamcast.com/indonesiana.m3u8
 
 
-#EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="Movies",HBO Indonesia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://paylist.ambatukan.workers.dev/s/cubmu/1mk5gpuh/drm?hdnts=exp=1767287141~acl=/s/cubmu/1mk5gpuh/*~id=allUsers~hmac=008970ebef2e95e0c10b11c47ca813a81ef53b7e0bcaf201a1c5bc41a7dc75f5
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="Movies",HBO Indonesia
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd?sign=a4a0f40e7f5ae06681ce7a6a5d5cf73d&time=1767265540
 
 
 #EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits Indonesia
